@@ -4,9 +4,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 ## Description
  This command-line application uses Node.js to help you easily create an HTML webpage that displays your Employee Directory/Team Profile. This app was built using the Inquirer and Jest node packages. 
@@ -25,7 +22,7 @@
 <br />
 Find me on GitHub: [Stephen-Garcia](https://github.com/Stephen-Garcia)<br />
 <br />
- Email me with any questions: garciastephen5280y@gmail.com<br /><br />
+ Email me with any questions: garciastephen5280@gmail.com<br /><br />
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screengif]: assets/test.gif
